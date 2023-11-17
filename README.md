@@ -1,5 +1,5 @@
 # Trees Project
->A simple program implemented in Java and completed during my data structures class.
+>A program implemented in Java and completed during my data structures class.
 >Processes a tree from a txt file and prints a variety of traversals to the console.
 
 ## Input
